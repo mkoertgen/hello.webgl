@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "tsc && vite build",
+    "preview": "tsc && vite build && vite preview --host --open"
+  },
+  "typeRoots": [
+    "node_modules/@types",
+    "src/@types"
+  ],
+  "dependencies": {
+    "babylonjs": "^5.35.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vite": "^3.2.4"
+  }
+}
