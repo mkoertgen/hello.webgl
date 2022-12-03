@@ -2,9 +2,11 @@
 
 Evaluating [WebGL](https://www.khronos.org/webgl/) libraries and frameworks
 
-## Libraries
+## Examples
 
-- [Babylon.js](https://www.babylonjs.com/)
+- [babylonjs](./babylon/README.md) - Example using [BabylonJS](https://www.babylonjs.com/)
+- [threejs](./three/README.md) - Example using [three.js](https://threejs.org/)
+- [trois](./trois/README.md) - Example using [TroisJS](https://troisjs.github.io/)
 
 ## Links
 

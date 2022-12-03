@@ -13,6 +13,6 @@ npm run dev
 npm run build
 ```
 
-## Examples
+## References
 
 - [paganaye/babylonjs-vite-boilerplate](https://github.com/paganaye/babylonjs-vite-boilerplate) - BabylonJs + vite Boilerplate
