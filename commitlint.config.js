@@ -3,7 +3,11 @@ const Configuration = {
   extends: ["@commitlint/config-conventional"],
   rules: {
     // https://commitlint.js.org/#/reference-rules
-    "scope-enum": [2, "always", ["babylon", "three", "trois"]],
+    "scope-enum": [
+      2,
+      "always",
+      ["babylon", "three", "react-three", "trois", "claygl"],
+    ],
   },
 };
 
