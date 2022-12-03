@@ -1,6 +1,6 @@
 # hello.claygl
 
-Examples using [ClayGL](https://github.com/pissang/claygl)
+Example using [ClayGL](https://github.com/pissang/claygl)
 
 ## Getting Started
 
