@@ -12,7 +12,7 @@
     "@cspell/dict-de-de": "^3.0.1",
     "breakdance-cli": "^1.0.1",
     "commitizen": "^4.2.5",
-    "cspell": "^6.14.0",
+    "cspell": "^6.17.0",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.1"
   },
