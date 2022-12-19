@@ -9,7 +9,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
-    "@cspell/dict-de-de": "^3.0.1",
+    "@cspell/dict-de-de": "^3.0.2",
     "breakdance-cli": "^1.0.1",
     "commitizen": "^4.2.6",
     "cspell": "^6.17.0",
