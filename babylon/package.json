@@ -2,7 +2,7 @@
   "private": true,
   "main": "server.js",
   "scripts": {
-    "dev": "vite --open",
+    "dev": "vite",
     "build": "tsc && vite build",
     "preview": "tsc && vite build && vite preview --host --open"
   },
