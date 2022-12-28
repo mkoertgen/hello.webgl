@@ -6,7 +6,7 @@ const Configuration = {
     "scope-enum": [
       2,
       "always",
-      ["babylon", "three", "react-three", "trois", "claygl"],
+      ["babylon", "three", "react-three", "trois", "claygl", "threlte"],
     ],
   },
 };

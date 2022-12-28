@@ -9,6 +9,7 @@ Evaluating [WebGL](https://www.khronos.org/webgl/) libraries and frameworks
 - [react-three](./react-three/README.md) - Examples using [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 - [trois](./trois/README.md) - Examples using [TroisJS](https://troisjs.github.io/) - a Vue.js 3 wrapper for three.js
 - [claygl](./claygl/README.md) - Examples using [ClayGL](https://github.com/pissang/claygl)
+- [threlte](./threlte/README.md) - Examples using [Threlte](https://threlte.xyz/)
 
 ## Links
 
