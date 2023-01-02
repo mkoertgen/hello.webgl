@@ -12,7 +12,7 @@
 		"@sveltejs/adapter-auto": "^1.0.0",
 		"@sveltejs/kit": "^1.0.0",
 		"@theatre/core": "^0.5.0",
-		"@theatre/studio": "^0.5.0",
+		"@theatre/studio": "^0.5.1",
 		"@threlte/core": "^5.0.8",
 		"@threlte/extras": "^4.9.3",
 		"@threlte/preprocess": "^0.0.2",
