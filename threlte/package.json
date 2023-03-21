@@ -27,7 +27,7 @@
 		"three": "^0.150.1",
 		"tslib": "^2.5.0",
 		"typescript": "^5.0.2",
-		"vite": "^4.1.4"
+		"vite": "^4.2.1"
 	},
 	"type": "module"
 }
