@@ -9,6 +9,10 @@ updates:
     schedule:
       interval: "weekly"
   - package-ecosystem: "npm"
+    directory: "/cesium"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "npm"
     directory: "/claygl"
     schedule:
       interval: "weekly"
