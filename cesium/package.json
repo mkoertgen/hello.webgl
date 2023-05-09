@@ -1,15 +1,19 @@
 {
   "private": true,
+  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "tsc && vite build && vite preview --host --open"
   },
-  "dependencies": {
-    "three": "^0.152.2"
-  },
+  "typeRoots": [
+    "node_modules/@types",
+    "src/@types"
+  ],
   "devDependencies": {
+    "cesium": "^1.105.0",
     "typescript": "^5.0.4",
-    "vite": "^4.3.4"
+    "vite": "^4.3.5",
+    "vite-plugin-cesium": "^1.2.22"
   }
 }

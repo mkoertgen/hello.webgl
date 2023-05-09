@@ -7,11 +7,12 @@ Evaluating [WebGL](https://www.khronos.org/webgl/) libraries and frameworks
 ## Examples
 
 - [babylon](./babylon/README.md) - Examples using [BabylonJS](https://www.babylonjs.com/)
-- [three](./three/README.md) - Examples using [three.js](https://threejs.org/)
-- [react-three](./react-three/README.md) - Examples using [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-- [trois](./trois/README.md) - Examples using [TroisJS](https://troisjs.github.io/) - a Vue.js 3 wrapper for three.js
 - [claygl](./claygl/README.md) - Examples using [ClayGL](https://github.com/pissang/claygl)
+- [cesium](./cesium/README.md) - Examples using [Cesium](https://cesium.com/)
+- [react-three](./react-three/README.md) - Examples using [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+- [three](./three/README.md) - Examples using [three.js](https://threejs.org/)
 - [threlte](./threlte/README.md) - Examples using [Threlte](https://threlte.xyz/)
+- [trois](./trois/README.md) - Examples using [TroisJS](https://troisjs.github.io/) - a Vue.js 3 wrapper for three.js
 
 ## Links
 
