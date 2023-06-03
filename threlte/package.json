@@ -25,7 +25,7 @@
 		"svelte-preprocess": "^5.0.3",
 		"svelte-sequential-preprocessor": "^1.0.0",
 		"three": "^0.152.2",
-		"tslib": "^2.5.0",
+		"tslib": "^2.5.3",
 		"typescript": "^5.0.4",
 		"vite": "^4.3.9"
 	},
