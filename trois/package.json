@@ -6,12 +6,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "three": "^0.152.2",
+    "three": "^0.155.0",
     "troisjs": "^0.3.4",
     "vue": "^3.3.4"
   },
   "devDependencies": {
-    "@types/three": "^0.152.0",
+    "@types/three": "^0.155.0",
     "@vitejs/plugin-vue": "^3.2.0",
     "@vue/compiler-sfc": "^3.2.45",
     "typescript": "^5.0.4",
