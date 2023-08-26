@@ -13,7 +13,7 @@
 		"@sveltejs/kit": "^1.22.6",
 		"@theatre/core": "^0.6.1",
 		"@theatre/studio": "^0.6.1",
-		"@threlte/core": "^5.0.9",
+		"@threlte/core": "^6.0.6",
 		"@threlte/extras": "^4.9.3",
 		"@threlte/preprocess": "^0.0.2",
 		"@threlte/rapier": "^1.1.0",
