@@ -11,7 +11,7 @@
     "src/@types"
   ],
   "devDependencies": {
-    "cesium": "^1.108.0",
+    "cesium": "^1.109.0",
     "typescript": "^5.2.2",
     "vite": "^4.4.9",
     "vite-plugin-cesium": "^1.2.22"
