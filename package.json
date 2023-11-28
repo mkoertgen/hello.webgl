@@ -7,7 +7,7 @@
     "check:spell": "cspell"
   },
   "devDependencies": {
-    "@commitlint/cli": "^18.4.1",
+    "@commitlint/cli": "^18.4.3",
     "@commitlint/config-conventional": "^18.4.3",
     "@cspell/dict-de-de": "^3.2.0",
     "breakdance-cli": "^1.0.1",
