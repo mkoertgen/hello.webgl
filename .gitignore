@@ -1,3 +1,6 @@
+# Ignore lock files, too many merge conflicts with dependabot
+package-lock.json
+
 # Created by https://www.toptal.com/developers/gitignore/api/node,obsidian,intellij+all,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,obsidian,intellij+all,visualstudiocode
 
