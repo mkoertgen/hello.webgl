@@ -11,7 +11,7 @@
     "src/@types"
   ],
   "dependencies": {
-    "babylonjs": "^7.31.1"
+    "babylonjs": "^7.32.2"
   },
   "devDependencies": {
     "typescript": "^5.6.3",
