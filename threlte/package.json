@@ -16,7 +16,7 @@
 		"@threlte/core": "^7.3.1",
 		"@threlte/extras": "^9.0.1",
 		"@threlte/preprocess": "^0.0.2",
-		"@threlte/rapier": "^2.0.1",
+		"@threlte/rapier": "^3.0.0",
 		"@threlte/theatre": "^2.1.8",
 		"@types/cookie": "^1.0.0",
 		"@types/three": "^0.170.0",
