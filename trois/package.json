@@ -11,7 +11,7 @@
     "vue": "^3.5.13"
   },
   "devDependencies": {
-    "@types/three": "^0.176.0",
+    "@types/three": "^0.177.0",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/compiler-sfc": "^3.5.12",
     "typescript": "^5.7.3",
