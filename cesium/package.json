@@ -13,7 +13,7 @@
   "devDependencies": {
     "cesium": "^1.111.0",
     "typescript": "^5.3.2",
-    "vite": "^6.0.3",
+    "vite": "^7.0.2",
     "vite-plugin-cesium": "^1.2.22"
   }
 }
