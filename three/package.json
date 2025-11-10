@@ -6,7 +6,7 @@
     "preview": "tsc && vite build && vite preview --host --open"
   },
   "dependencies": {
-    "three": "^0.178.0"
+    "three": "^0.181.1"
   },
   "devDependencies": {
     "typescript": "^5.3.2",
