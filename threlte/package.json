@@ -19,7 +19,7 @@
 		"@threlte/rapier": "^3.0.0",
 		"@threlte/theatre": "^3.0.0",
 		"@types/cookie": "^1.0.0",
-		"@types/three": "^0.181.0",
+		"@types/three": "^0.182.0",
 		"svelte": "^5.17.4",
 		"svelte-check": "^4.1.1",
 		"svelte-preprocess": "^6.0.3",
